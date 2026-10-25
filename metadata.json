@@ -1,0 +1,6 @@
+{
+  "name": "FaultLens AI",
+  "description": "AI-Powered Cascading Software Failure Prediction & Recovery Platform. Predict Failures. Trace Dependencies. Recover Before Downtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
